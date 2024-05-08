@@ -22,9 +22,11 @@ Installation:
    - Install Python: https://www.python.org/downloads/
    - Install FFmpeg: https://ffmpeg.org/download.html
    1) Install the script as a zip file :
+
       -Extract the files 
+
       -Run music_bot.py
-   2) Install with git :
+   3) Install with git :
 
       -Clone the repository: git clone https://github.com/RoodyNorman/discord_music_bot.git
 
