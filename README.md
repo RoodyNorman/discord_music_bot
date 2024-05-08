@@ -25,8 +25,11 @@ Installation:
       -Extract the files 
       -Run music_bot.py
    2) Install with git :
+
       -Clone the repository: git clone https://github.com/RoodyNorman/discord_music_bot.git
+
       -cd discord_music_bot
+
       -python music_bot.py
 
 3. Configuration:
